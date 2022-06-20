@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "elementR"]
+	path = elementR
+	url = https://github.com/charlottesirot/elementr
+	shallow = true
+	registered = true
